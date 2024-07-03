@@ -1,0 +1,6 @@
+[package]
+name = "problem8_largest_number_in_a_series"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
